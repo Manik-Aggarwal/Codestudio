@@ -1,0 +1,1 @@
+Link : https://www.codingninjas.com/codestudio/problems/common-elements-present-in-all-rows-of-a-matrix_1118111
